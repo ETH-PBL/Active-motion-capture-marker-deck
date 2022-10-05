@@ -28,9 +28,9 @@
     ·
     <a href="https://github.com/ETH-PBL/Active-motion-capture-marker-deck/issues">Request Feature</a>
   </p>
-  Designed by Carl Friess <carl.friess@me.com>
 </p>
 
+Designed by Carl Friess <carl.friess@me.com>
 
 
 <!-- ABOUT THE PROJECT -->
