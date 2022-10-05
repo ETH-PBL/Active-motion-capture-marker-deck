@@ -11,12 +11,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![License][license-shield]][license-url]
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -59,15 +53,15 @@ The printed circuit board (PCB) is built of 2 Layers and a thickness of 0.4mm. F
 
 File                                  | Content
 --------------------------------------|--------
-[ActiveMarkerDeck.SchDoc]                 | Schematics of the deck.
-[ActiveMarkerDeck.PcbDoc]                     | Layout including 3D view.
-[fabrication.zip]			      | Fabrication files.
+ActiveMarkerDeck.SchDoc                 | Schematics of the deck.
+ActiveMarkerDeck.PcbDoc                     | Layout including 3D view.
+fabrication.zip			      | Fabrication files.
 
 
 The preview of the assembly, with details of logical connections can be found here:
 
 <a href="https://github.com/ETH-PBL/Active-motion-capture-marker-deck">
-    <img src="pics/deck.png" alt="Logo" width="420" height="325">
+    <img src="deck.png" alt="Logo" width="420" height="325">
 </a>
 
 <!-- GETTING STARTED -->
