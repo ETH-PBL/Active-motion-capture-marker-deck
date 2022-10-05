@@ -44,9 +44,9 @@ Note: the deck was tested in combination with a Vicon Vero 2.2 consisting of 6 c
 ### Components
 Listed below the list of key components for our integrated deck targetted for the Crazyflie 2.1 platform: 
 
-* [BCR421UW6Q-7][https://www.mouser.ch/ProductDetail/Diodes-Incorporated/BCR421UW6Q-7?qs=7rrmt5iGdWdedcb2M%252BEvjA%3D%3D],       LED driver
-* [HIR19-21C/L11/TR8][https://www.digikey.ch/de/products/detail/everlight-electronics-co-ltd/HIR19-21C-L11-TR8/2675838],       Infrared LED
-* [Deck connector][https://store.bitcraze.io/collections/decks/products/female-deck-connector],       Female pin header connector 1.27mm
+* [BCR421UW6Q-7](https://www.mouser.ch/ProductDetail/Diodes-Incorporated/BCR421UW6Q-7?qs=7rrmt5iGdWdedcb2M%252BEvjA%3D%3D),       LED driver
+* [HIR19-21C/L11/TR8](https://www.digikey.ch/de/products/detail/everlight-electronics-co-ltd/HIR19-21C-L11-TR8/2675838),       Infrared LED
+* [Deck connector](https://store.bitcraze.io/collections/decks/products/female-deck-connector),       Female pin header connector 1.27mm
 ### PCB 
 The printed circuit board (PCB) is built of 2 Layers and a thickness of 0.4mm. Further informations about the PCB can be found here:
 
@@ -71,4 +71,4 @@ When soldering the infrared LEDs, it is important to solder exactly one LED on e
 
 ## Mentions
 
-This project was developed during the master thesis of Carl Friess, conducted under the center for Project Based Learning and the Institute of Integrated Systems in ETH.
+This project was developed during the master thesis of Carl Friess, conducted under the center for [Project Based Learning](https://pbl.ee.ethz.ch/) and the [Integrated Systems Laboratory](https://iis.ee.ethz.ch/research/research-groups/Digital%20Circuits%20and%20Systems.html) in ETH.
