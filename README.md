@@ -42,8 +42,6 @@ Note: the deck was tested in combination with a Vicon Vero 2.2 consisting of 6 c
 
 
 ### Components
-The <a href="www.st.com/en/imaging-and-photonics-solutions/vl53l5cx.html">VL53L5CX</a> is a ToF multizone ranging sensor produced by STMicroelectronics. 
-It integrates a single-photon avalanche diode (SPAD) array, physical infrared filters, and diffractive optical elements (DOE) to achieve a millimeter accuracy in various ambient lighting conditions with a wide range of cover glass materials. The working range spans between 2 cm and 4 meters, but above 2 m the overall ranging precision degrades to 11% of the absolute distance. The most important feature of the VL53L5CX is the multizone capability, which can be configured as an 8x8 or 4x4 matrix. 
 Listed below the list of key components for our integrated deck targetted for the Crazyflie 2.1 platform: 
 
 * [BCR421UW6Q-7][https://www.mouser.ch/ProductDetail/Diodes-Incorporated/BCR421UW6Q-7?qs=7rrmt5iGdWdedcb2M%252BEvjA%3D%3D],       LED driver
